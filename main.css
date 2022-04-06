@@ -4,7 +4,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(102, 97, 91);
+    color: rgb(255, 254, 254);
     
 }
 
@@ -14,7 +14,7 @@
     background-position: center center;
     background: url(resim1.jpg);
     background-size: cover;
-    background-color: rgb(139, 125, 85);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -28,7 +28,7 @@
     border-radius: 50%;
 
     background-color: rgb(36, 15, 15);
-    color: rgb(17, 16, 16);
+    color: rgb(243, 229, 229);
 
 }
 

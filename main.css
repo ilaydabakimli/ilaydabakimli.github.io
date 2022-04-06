@@ -14,7 +14,7 @@
     background-position: center center;
     background: url(resim.jpg);
     background-size: cover;
-    background-color: grey;
+    background-color: rgb(139, 125, 85);
 }
 
 
@@ -27,8 +27,8 @@
     margin: 5px 2px;
     border-radius: 50%;
 
-    background-color: darkgray;
-    color: dimgray;
+    background-color: rgb(36, 15, 15);
+    color: rgb(233, 217, 217);
 
 }
 
